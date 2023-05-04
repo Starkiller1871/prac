@@ -51,5 +51,6 @@ public static void main(String[] args) {
 int[] marks = {90,80,70,56,89};
 student225 sue = new student225("Anne Sue", "777", marks);
 sue.displayresults();
+System.out.println("sadasd");
 }
 }
